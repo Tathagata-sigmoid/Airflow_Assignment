@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS Weather(City varchar(50), State varchar(50), Description varchar(50), Temperature float, Feels_Like_Temperature float, Min_Temperature float, Max_Temperature float, Humidity float, Clouds float);

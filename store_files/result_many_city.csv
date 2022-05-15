@@ -1,0 +1,11 @@
+City,State,Description,Temperature,Feels Like Temperature,Min Temperature,Max Temperature,Humidity,Clouds
+Kolkata,West Bengal,haze,87.75,100.35,87.75,89.04,79,40
+Delhi,Delhi,haze,104.09,99.72,104.09,104.09,13,40
+Mumbai,Maharashtra,haze,87.78,100.38,87.78,87.78,74,40
+Bengaluru,Karnataka,light rain,81.46,84.34,78.62,83.52,64,40
+Pune,Maharashtra,overcast clouds,85.82,88.79,85.82,85.82,54,87
+Patna,Bihar,haze,89.53,102.13,89.53,89.53,70,20
+Chennai,Tamil Nadu,mist,85.96,98.56,84.18,85.96,87,75
+Goa,Goa,broken clouds,84.58,93.99,84.58,84.58,76,74
+Hyderabad,Telangana,haze,88.21,94.69,87.31,88.21,58,75
+Kota,Rajasthan,clear sky,102.06,98.15,102.06,102.06,15,5
